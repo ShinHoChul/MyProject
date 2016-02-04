@@ -1,5 +1,5 @@
 <?
 	
 	 echo "Hello?"
-	 
+	 $i = "Bye";
 	 

@@ -1,0 +1,3 @@
+<?
+	
+	echo "He is bad";
